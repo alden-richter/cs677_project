@@ -10,4 +10,11 @@ To classify the data, I selected three pretrained image classification networks:
 
 ## Results
 
+| Model type | Accuracy | TP   | FP  | TN   |  FN |  TPR  | TNR
+|-----------|----------|------|-----|------|-----|-------|------
+|    resnet | 95.3442% | 1019 | 24  | 1377 | 93  | 0.916 | 0.983
+|       vgg | 90.7282% | 892 |  13 | 1388 | 220 | 0.802 | 0.991
+|   alexnet | 94.1106% |  1076 | 112 | 1289 |  36 |  0.968 |   0.920
+
+## Discussion
 
