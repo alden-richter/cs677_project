@@ -1,5 +1,7 @@
 # CS 677 Final Project
 
+[Project Slides](https://docs.google.com/presentation/d/1vtc_N5O9KP1YNKIyZOgzvw5jI11GrQEhh4J_aYIeDII/edit?usp=sharing)
+
 ## Dataset
 
 For this project, I used a [Waste Classification dataset](https://www.kaggle.com/techsash/waste-classification-data), which consists of 25k images of garbage, labeled as either recyclable or organic. The dataset is split 85-15 into train and test subsets.
