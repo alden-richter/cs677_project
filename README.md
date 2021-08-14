@@ -18,3 +18,5 @@ To classify the data, I selected three pretrained image classification networks:
 
 ## Discussion
 
+As you can see in the table above, the ResNet-based classifier had the best accuracy with over 95%. The next best classifier was AlexNet with over 94% accuracy. Note that AlexNet had a higher true positive rate, but a lower true negative rate. Finally, VGG had the highest true negative rate with over 99%, but had the lowest accuracy due to its lower true positive rate at just over 80%.
+
